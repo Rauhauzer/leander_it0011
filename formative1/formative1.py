@@ -1,0 +1,12 @@
+Fname = input( "Enter First Name: ")
+Lname = input( "Enter Last Name: ")
+Mname = input( "Enter Middle Name: ")
+Bday = input( "Enter Birthday: ")
+Gender = input( "Enter Gender: ")
+Address = input( "Enter Address: ")
+Course = input( "Enter Course: ")
+Year = input( "Enter Year Level: ")
+Name = Fname, Lname, Mname
+print("===========================================")
+print("Name:", Name, "\nBirthday:", Bday,"\nGender:", Gender,"\nAddress:", Address,"\nCourse:", Course, "\nYear Level:", Year)
+print("===========================================")
